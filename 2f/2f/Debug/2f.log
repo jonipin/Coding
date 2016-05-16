@@ -1,0 +1,20 @@
+﻿Build started 10-01-2013 09:16:58.
+     1>Project "Z:\visual studio 2010\Projects\2f\2f\2f.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\2f.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\2f.unsuccessfulbuild".
+         Touching "Debug\2f.lastbuildstate".
+     1>Done Building Project "Z:\visual studio 2010\Projects\2f\2f\2f.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
