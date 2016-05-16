@@ -1,0 +1,20 @@
+﻿Build started 11-12-2012 11:34:08.
+     1>Project "Z:\visual studio 2010\Projects\3 numeros soma\3 numeros soma\3 numeros soma.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\3 numeros soma.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\3 numeros soma.unsuccessfulbuild".
+         Touching "Debug\3 numeros soma.lastbuildstate".
+     1>Done Building Project "Z:\visual studio 2010\Projects\3 numeros soma\3 numeros soma\3 numeros soma.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
