@@ -1,0 +1,27 @@
+﻿Build started 15-01-2013 11:11:24.
+     1>Project "Z:\visual studio 2010\Projects\1while\1while\1while.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\1while.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 1while.c
+         1while.c
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\1while.exe.embed.manifest.res" Debug\1while_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\visual studio 2010\Projects\1while\Debug\1while.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1while.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\visual studio 2010\Projects\1while\Debug\1while.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\visual studio 2010\Projects\1while\Debug\1while.lib" /MACHINE:X86 Debug\1while.exe.embed.manifest.res
+         Debug\1while.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\1while.exe.embed.manifest" /manifest Debug\1while.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\1while.exe.embed.manifest.res" Debug\1while_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\visual studio 2010\Projects\1while\Debug\1while.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1while.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\visual studio 2010\Projects\1while\Debug\1while.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\visual studio 2010\Projects\1while\Debug\1while.lib" /MACHINE:X86 Debug\1while.exe.embed.manifest.res
+         Debug\1while.obj
+         1while.vcxproj -> Z:\visual studio 2010\Projects\1while\Debug\1while.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\1while.unsuccessfulbuild".
+         Touching "Debug\1while.lastbuildstate".
+     1>Done Building Project "Z:\visual studio 2010\Projects\1while\1while\1while.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.36
